@@ -1,0 +1,11 @@
+# Ignore compiled executable files
+*.exe
+*.out
+*.o
+
+# Ignore system files
+*.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
