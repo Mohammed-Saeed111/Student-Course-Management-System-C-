@@ -46,36 +46,11 @@ The system demonstrates Object-Oriented Programming (OOP) concepts and uses the 
 ---
 
 ## 🖼 UML Diagram
+## 🖼 UML Diagram
 
-The UML diagram was created using **[draw.io](https://app.diagrams.net/)** and exported as PDF.  
-It shows all classes, attributes, methods, and inheritance relationships.
+The UML diagram shows all classes, attributes, methods, and inheritance relationships.
 
-**Diagram structure:**
-
-    +------------------+
-    |      Person      |
-    +------------------+
-    | - name : string  |
-    +------------------+
-
-             ▲
-             |
-    +----------------------+
-    |       Student        |
-    +----------------------+
-    | - id : int           |
-    | - gpa : double       |
-    | - courses : set<string> |
-    +----------------------+
-    | + Student()          |
-    | + getId()            |
-    | + getName()          |
-    | + getGpa()           |
-    | + display()          |
-    | + addCourse()        |
-    | + showCourses()      |
-    +----------------------+
-
+![UML Diagram](https://drive.google.com/uc?export=view&id=1rYNh7GShbdWnLEQAxkZHueMIdsB2LDfC)
 ---
 
 ## ⚙️ How to Run
