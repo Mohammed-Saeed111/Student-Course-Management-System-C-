@@ -13,7 +13,7 @@ protected:
     string name;
 };
 
-// ================= Student Class =================
+// ================ Student Class =================
 class Student : public Person {
 private:
     int id;
