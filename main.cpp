@@ -7,7 +7,7 @@
 
 using namespace std;
 
-// ================= Person Class =================
+// ================ Person Class =================
 class Person {
 protected:
     string name;
