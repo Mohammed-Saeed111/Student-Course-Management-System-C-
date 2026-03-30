@@ -7,13 +7,21 @@
 
 using namespace std;
 
+<<<<<<< HEAD
 // ================ Person Class =================
+=======
+// ================= Person Class =================
+>>>>>>> c248ad95fa99e58b77cf81154490098769ead3c5
 class Person {
 protected:
     string name;
 };
 
+<<<<<<< HEAD
 // ================ Student Class =================
+=======
+// ================= Student Class =================
+>>>>>>> c248ad95fa99e58b77cf81154490098769ead3c5
 class Student : public Person {
 private:
     int id;
